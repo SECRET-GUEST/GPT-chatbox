@@ -12,7 +12,7 @@ Python version : 3.11
  
  # Intro
  
- Un petit programme Python qui évoluera au cours du temps (quand j'en aurai).
+ Un petit programme Python qui évoluera au cours du temps (quand j'en aurai) pour chat localement avec GPT-2.
  Il se base sur le model GPT-2 developpé dans cette librairie ; 
  
  https://github.com/huggingface/transformers
