@@ -45,5 +45,4 @@ Python version : 3.11
 Et bien d'autres...
  
 ᶦᵐᵖᵒʳᵗᵃⁿᵗ 
-###### Cette page sera entièrement réécrite en Anglais une fois que la vraie Alpha finale sortira dans ~...temps.
-D'ici la débrouillez vous, et n'hésitez pas à participer au projet !
+###### Cette page sera entièrement réécrite en Anglais une fois que la vraie Alpha finale sortira dans ~...temps. D'ici la débrouillez vous, et n'hésitez pas à participer au projet !
