@@ -31,15 +31,15 @@ Python version : 3.11
  
  Pour le future de ce repository, beaucoups de choses sont à prévoir :
  
-  1. Revisite des éléments inutiles tels que l'option de sauvegarde.
+- [ ] 1. Revisite des éléments inutiles tels que l'option de sauvegarde.
 
-     12. Refonte du frontend actuel méchamment éclaté au sol.
+- [ ] 12. Refonte du frontend actuel méchamment éclaté au sol.
 
-        31. Ajout de barres de chargements, ...
+- [ ] 31. Ajout de barres de chargements, ...
 
-          5. Lecture audio pour les textes
+- [ ] 5. Lecture audio pour les textes
 
-            28. Création d'un fichier .exe
+- [ ] 28. Création d'un fichier .exe
       
   . . . 
 Et bien d'autres...
