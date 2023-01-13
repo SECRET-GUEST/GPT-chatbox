@@ -124,8 +124,13 @@ from tkinter import filedialog
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
 
 
-#OPENING | https://youtu.be/_85LaeTCtV8 :3
+#___  ____ _ _ _ ____ ____    ___  _    ____ _  _ ___
+#|__] |  | | | | |___ |__/    |__] |    |__| |\ |  |
+#|    |__| |_|_| |___ |  \    |    |___ |  | | \|  |
 
+
+
+#OPENING | https://youtu.be/_85LaeTCtV8 :3
 
 #Parametres principaux de notre fenetre de chat
 def main():
@@ -154,12 +159,7 @@ def main():
 #On lance la loop de création de la fenetre
     master.mainloop()
 
-
-#___  ____ _ _ _ ____ ____    ___  _    ____ _  _ ___
-#|__] |  | | | | |___ |__/    |__] |    |__| |\ |  |
-#|    |__| |_|_| |___ |  \    |    |___ |  | | \|  |
-
-
+    
 #Fonction utile pour créer notre .exe avec auto-py-to-exe
 def ressource_path(relative_path):
     try:
