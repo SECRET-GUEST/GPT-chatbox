@@ -12,36 +12,36 @@ Python version : 3.11
  
  # Intro
  
- Un petit programme Python qui évoluera au cours du temps (quand j'en aurai) pour chat localement avec GPT-2.
- Il se base sur le model GPT-2 developpé dans cette librairie ; 
+A small Python program that will evolve over time (when I have some) to chat locally with GPT-2.
+It is based on the GPT-2 model developed in this library; 
  
  https://github.com/huggingface/transformers
  
- Pour l'utiliser il vous faudra la librairie complete donc : 
+To use it you need the complete library so :
  
  ```
  pip install transformers
  ```
- 
- Il vous faudra également changer les paths pour les votre dans le fichier python.
- 
- Ce script fonctionne également pour GPT-3 à condition d'avoir les bibliotèques requises à son fonctionnement.
- 
- ## Futur
- 
- Pour le future de ce repository, beaucoups de choses sont à prévoir :
- 
-- [ ] 1. Revisite des éléments inutiles tels que l'option de sauvegarde.
 
-- [ ] 12. Refonte du frontend actuel méchamment éclaté au sol.
+You will also need to change the paths to yours in the python file.
+ 
+This script also works for GPT-3 if you have access to the required libraries.
+ 
+ ## TODO
+ 
+ For the future of this repository, there are many things to do:
+ 
+- [ ] 1. revise unnecessary elements such as the save option.
 
-- [ ] 31. Ajout de barres de chargements, ...
+- [ ] 12. Redesign of the current frontend which is badly broken down.
 
-- [ ] 5. Lecture audio pour les textes
+- [ ] 31. Adding loading bars, ...
 
-- [ ] 28. Création d'un fichier .exe
+- [ ] 5. Audio playback for texts
+
+- [ ] 28. Creation of an .exe file
       
   . . . 
-Et bien d'autres...
+
  
-###### ᶦᵐᵖᵒʳᵗᵃⁿᵗ Cette page sera entièrement réécrite en Anglais une fois que la vraie Alpha finale sortira dans ~...temps. D'ici la débrouillez vous, et n'hésitez pas à participer au projet !
+###### ᶦᵐᵖᵒʳᵗᵃⁿᵗ Feel free to participate in the project!
