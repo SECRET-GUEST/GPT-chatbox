@@ -45,3 +45,16 @@ This script also works for GPT-3 if you have access to the required libraries.
 
  
 ###### ᶦᵐᵖᵒʳᵗᵃⁿᵗ Feel free to participate in the project!
+
+
+
+
+# :scroll: License
+
+This repository is released under the [MIT License](LICENSE). Please see the `LICENSE` file for more information.
+
+# :question: Support & Questions
+
+If you have any questions or need support, please feel free to open an issue or join my twitter.
+
+
